@@ -1,1 +1,1 @@
-importScripts('https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js');
+importScripts('https://staging-01.onesignal.com/sdks/OneSignalSDKWorker.js');
